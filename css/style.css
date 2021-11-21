@@ -1,0 +1,48 @@
+.container .jumbotron {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    background-image: url("https://mytourcdn.com/upload_images/Image/Location/19_2_2015/du-lich-ha-tay-2-ngay-1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 50px;
+    color: rgb(219, 169, 4);
+    text-align: center;
+}
+.jumbotron h1{
+    font-size: 10vw;
+    margin-top: 40px;
+}
+.jumbotron p{
+    font-size: 2vw;
+}
+.container-fluid h1 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    color: black
+    font-size: 3vw;
+    margin: 40px 0;
+
+}
+.container-fluid p {
+    font-size: 0.8vw;
+    font-style: italic;
+  
+    margin: 40px 0;
+}
+.container-fluid h2 {
+    font-weight: bold;
+}
+.container-fluid h3 {
+    font-weight: bold;
+}
+.footer {
+    height: cover;
+    background-color: rgb(177, 97, 23);
+    color: white;
+    text-align: center;
+ }
+body {
+    background-color: rgb(209, 211, 214);
+}
